@@ -65,7 +65,7 @@ const Navbar = () => {
             {openNav && <div className="profileBtns">
                 <div className="avatarInfo profileTab ">
                     <img src={Avatar} alt="your Avatar" title='avatar' />
-                    <p> forntend Developer </p>
+                    <p> fronttend Developer </p>
                 </div>
                 <div className="horizontalLine"></div>
                 <div className="profileTabs">
